@@ -15,4 +15,4 @@ SOPA integrates third-party open-source libraries including Python, ChromaDB, Wh
 SOPA does not distribute AI models. Users must download compatible models (e.g., Qwen2.5 or Whisper) directly from their original sources and comply with the respective model licenses.
 
 5. DISCLAIMER OF WARRANTY
-SOPA IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND[cite: 32]. AI-generated results may contain inaccuracies. Users are responsible for verifying outputs before use. The developers assume no liability for decisions made based on the software's outputs.
+SOPA IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. AI-generated results may contain inaccuracies. Users are responsible for verifying outputs before use. The developers assume no liability for decisions made based on the software's outputs.
