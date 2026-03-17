@@ -14,30 +14,35 @@ B. Intelligent Task Routing
    2.	User-Specified Intent: Users can also manually specify the task type if precise control is required.
 
 C. Modular Design
+
 The interface features a tab-based navigation system:
-   •	Chat Tab: Real-time interaction with the neural engine.
-   •	Document Tab: Management and indexing of the local knowledge base.
-   •	Translation Tab: Managing translation pairs ingested from documents or added manually.
-   •	Chat History Tab: Persistent record of previous AI conversations for reference and retrieval.
+   1. Chat Tab: Real-time interaction with the neural engine.
+   2. Document Tab: Management and indexing of the local knowledge base.
+   3. Translation Tab: Managing translation pairs ingested from documents or added manually.
+   4. Chat History Tab: Persistent record of previous AI conversations for reference and retrieval.
 
 D. Hardware-Aware Model Management
-SOPA automatically analyses available system resources and users may download and manage models locally through the integrated model manager.
+
+   SOPA automatically analyses available system resources and users may download and manage models locally through the integrated model manager.
 
 E. Privacy
-SOPA is built to run entirely offline after user downloaded the LLM. 
+
+   SOPA is built to run entirely offline after user downloaded the LLM. 
 
 F. Licensing
-SOPA (Smart Offline Personal Assistant) is distributed as free software for personal, educational, and research use. The software may be freely shared and redistributed in its original, unmodified form.
 
-SOPA integrates open-source libraries including Python, ChromaDB, Whisper, CustomTkinter, NumPy, pandas, Matplotlib, and PyTorch. These components remain the property of their respective authors and are used under their original licenses (e.g., MIT, BSD, Apache 2.0).
+   SOPA (Smart Offline Personal Assistant) is distributed as free software for personal, educational, and research use. The software may be freely shared and redistributed in its original,      unmodified form.
 
-SOPA does not distribute AI models. Users download compatible models (such as Qwen2.5 or Whisper models) directly from their original sources and must comply with the respective model licenses.
+   SOPA integrates open-source libraries including Python, ChromaDB, Whisper, CustomTkinter, NumPy, pandas, Matplotlib, and PyTorch. These components remain the property of their respective     authors and are used under their original licenses (e.g., MIT, BSD, Apache 2.0).
+
+   SOPA does not distribute AI models. Users download compatible models (such as Qwen2.5 or Whisper models) directly from their original sources and must comply with the respective model       licenses.
 
 G. Disclaimer
+
 SOPA is an AI-assisted system designed to support human decision-making.
 Important notes:
-   •	SOPA is provided "as is" without warranty of any kind.
-   •	AI-generated results may contain inaccuracies.
-   •	Users are responsible for verifying outputs before use.
-   •	The developers assume no liability for decisions made based on the software's outputs
+   1. SOPA is provided "as is" without warranty of any kind.
+   2. AI-generated results may contain inaccuracies.
+   3. Users are responsible for verifying outputs before use.
+   4. The developers assume no liability for decisions made based on the software's outputs
 
