@@ -50,7 +50,10 @@ Important notes:
 
 # 🚀 Getting Started
 
-To begin using SOPA, follow these initial steps:Navigate to Settings: Go to the Settings tab in the sidebar.Initial Setup: Click on Initial Setup to select the folder path containing the documents you wish to use for AI inference.Automatic Indexing: SOPA will read through the selected folders and ingest compatible files.
+To begin using SOPA, follow these initial steps:
+* Navigate to Settings: Go to the Settings tab in the sidebar.
+* Initial Setup: Click on Initial Setup to select the folder path containing the documents you wish to use for AI inference.
+* Automatic Indexing: SOPA will read through the selected folders and ingest compatible files.
 
 * Supported Formats: .pdf and .docx.
 * Unsupported: Password-protected files and .doc formats will not be ingested.
