@@ -1,3 +1,5 @@
+
+
 Getting Started
 
 To begin, navigate to the Settings tab and select Initial Setup to provide SOPA with the folder path that contains the documents it will use for inference. It will read inside folders and works for .docx and .pdf documents. Password protected and .doc documents will not be ingested into the vaults. Translation vaults are automatically populated for double column documents with different languages.
