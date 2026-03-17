@@ -46,7 +46,7 @@ Important notes:
    3. Users are responsible for verifying outputs before use.
    4. The developers assume no liability for decisions made based on the software's outputs
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 🚀 Getting Started
 
