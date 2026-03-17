@@ -1,4 +1,4 @@
-# SOPA Smart Offline Personal Assistant 
+# SOPA (Smart Offline Personal Assistant) 
 
 SOPA (Smart Offline Personal Assistant) is a specialised local AI platform designed for secure, high-precision document intelligence and data analysis. SOPA operates entirely offline, ensuring data privacy. The system integrates Large Language Models (LLMs), vector databases, and a Retrieval-Augmented Generation (RAG) pipeline to enable advanced document search, translation, and analytical capabilities within a unified local workspace.
 
@@ -48,11 +48,12 @@ Getting Started
 To begin, navigate to the Settings tab and select Initial Setup to provide SOPA with the folder path that contains the documents it will use for inference. It will read inside folders and works for .docx and .pdf documents. Password protected and .doc documents will not be ingested into the vaults. Translation vaults are automatically populated for double column documents with different languages.
 
 Main Interface
- 
+<img width="1384" height="735" alt="sopa1" src="https://github.com/user-attachments/assets/21a73cf2-08d7-4e25-9967-a5ec464e8ca0" />
 
 What you can do
 1.	Specify the intent:
- 
+   <img width="62" height="61" alt="sopa2" src="https://github.com/user-attachments/assets/0da78728-fa5d-48e9-963c-690260c751ff" />
+
 a.	Chat: to chat with the AI
 i.	Normal chat
 ii.	Ask queries about a filename with the extension (e.g. abc.docx that is in the document vault)
@@ -91,8 +92,6 @@ c.	Double-click to look at a particular saved chat
 5.	In the tab: Settings, you can
 a.	Do initial setup or to delete all the data in the vaults
 b.	Change the language and mode (light or dark)
- 
-
-
+   <img width="1159" height="616" alt="sopa3" src="https://github.com/user-attachments/assets/32835d51-98b6-4fca-8ba3-dc174416c336" />
 
 
