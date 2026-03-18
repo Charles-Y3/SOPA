@@ -5,7 +5,6 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/downloads/Charles-Y3/SOPA/total?style=flat-square" />
   <img src="https://img.shields.io/badge/Privacy-100%25%20Offline-green?style=flat-square&logo=icloud&logoColor=white" />
 </p>
 
