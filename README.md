@@ -7,7 +7,6 @@
 <p align="left">
   <img src="https://img.shields.io/github/downloads/Charles-Y3/SOPA/total?style=flat-square" />
   <img src="https://img.shields.io/badge/Privacy-100%25%20Offline-green?style=flat-square&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/github/actions/workflow/status/Charles-Y3/SOPA/codeql.yml?label=Security&style=flat-square" />
 </p>
 
 SOPA (Smart Offline Personal Assistant) is a specialised local AI platform designed for secure, high-precision document intelligence and data analysis. SOPA operates entirely offline, ensuring data privacy. The system integrates Large Language Models (LLMs), vector databases, and a Retrieval-Augmented Generation (RAG) pipeline to enable advanced document search, translation, and analytical capabilities within a unified local workspace.
