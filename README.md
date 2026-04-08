@@ -63,16 +63,16 @@ To begin using SOPA, follow these initial steps:
 * Initial Setup: Click on Initial Setup to select the folder path containing the documents you wish to use for AI inference.
 * Automatic Indexing: SOPA will read through the selected folders and ingest compatible files.
 
-* Supported Formats: .pdf and .docx.
-* Unsupported: Password-protected files and .doc formats will not be ingested.
+* Supported Formats: .pdf, .doc and .docx. (including password protected documents)
+  
 * Auto-Translation: Translation vaults are automatically populated if double-column documents with different languages are detected.
 
 # 🖥️ Main Interface
 <p align="center"><img width="1384" alt="sopa1" src="https://github.com/user-attachments/assets/21a73cf2-08d7-4e25-9967-a5ec464e8ca0" /></p>
 
-   * 💬 Chat: Engage in standard AI dialogue or ask specific questions about a file (e.g., abc.docx) already in your vault.
+   * 💬 Chat: Engage in standard AI dialogue.
      
-   * 🔍 Search: Perform a semantic search across your Document Vault. The system returns the top 3 matching segments with their original sources.
+   * 🔍 Search: Perform a semantic search across your Document Vault. The system returns matching segments with their original sources. Able to query for specific file, folder or entire database.
      
    * 🌐 Translate: Search the Translation Vault for existing phrases.
       * Matching results are returned with the source document quoted.Translate specific files.
