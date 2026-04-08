@@ -43,7 +43,7 @@ F. Licensing
 
    SOPA integrates open-source libraries including Python, ChromaDB, Whisper, CustomTkinter, NumPy, pandas, Matplotlib, and PyTorch. These components remain the property of their respective     authors and are used under their original licenses (e.g., MIT, BSD, Apache 2.0).
 
-   SOPA does not distribute AI models. Users download compatible models (such as Qwen2.5 or Whisper models) directly from their original sources and must comply with the respective model       licenses.
+   SOPA does not distribute AI models. Users download compatible models (such as Qwen3 model) directly from their original sources and must comply with the respective model       licenses.
 
 G. Disclaimer
 
